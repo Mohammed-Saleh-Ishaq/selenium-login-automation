@@ -13,3 +13,6 @@ This is a Selenium-based automation project for testing the login and logout fun
 - unittest (built-in Python framework)
 - ChromeDriver
 - HtmlTestRunner (optional for reports)
+
+
+## 📁 Project Structure
