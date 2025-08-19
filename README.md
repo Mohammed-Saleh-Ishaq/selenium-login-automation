@@ -18,6 +18,7 @@ This is a Selenium-based automation project for testing the login and logout fun
 - ChromeDriver
 - HtmlTestRunner (optional for reports)
 
+---
 
 ## 📁 Project Structure
 
