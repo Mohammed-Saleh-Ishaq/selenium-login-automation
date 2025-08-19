@@ -8,6 +8,8 @@ This is a Selenium-based automation project for testing the login and logout fun
 
 [https://opensource-demo.orangehrmlive.com/](https://opensource-demo.orangehrmlive.com/)
 
+---
+
 ## 🧰 Tools & Technologies
 
 - Python
