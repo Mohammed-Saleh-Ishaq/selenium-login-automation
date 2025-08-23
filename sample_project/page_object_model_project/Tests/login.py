@@ -4,12 +4,14 @@ from selenium.webdriver.common.by import By
 import time
 import unittest
 
-import sys
-import os
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
-from ..pages.loginpages import LoginPage
-#from sample_project.page_object_model_project.pages.loginpages import LoginPage
+#import sys
+#import os
+#sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
+#from ..pages.loginpages import LoginPage
+#from .pages.homepage import HomePage
 
+from sample_project.page_object_model_project.pages.loginpages import LoginPage
+from sample_project.page_object_model_project.pages.homepage import HomePage
 class LoginTest(unittest.TestCase):
     @classmethod
     def setUpClass(self):
@@ -23,9 +25,13 @@ class LoginTest(unittest.TestCase):
 
         driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login")
         login =LoginPage(driver)
-        login.enter_username("Adimin")
+        login.enter_username("Admin")
         login.enter_password("admin123")
         login.click_login()
+
+        homePage = HomePage(driver)
+        homePage.click_welcome()
+        homePage.click_logout()
         #self.driver.find_element(By.NAME, "username").send_keys("Admin")
         #self.driver.find_element(By.NAME, "password").send_keys("admin123")
         #self.driver.find_element(By.XPATH, "//button[@type='submit']").click()
@@ -46,6 +52,8 @@ if __name__ == '__main__':
     unittest.main()
 
 
+#import sample_project.page_object_model_project.pages.homepage as hp
+#print(hp.__file__)
 
 
 
