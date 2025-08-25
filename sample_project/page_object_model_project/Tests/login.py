@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By
 
 import time
 import unittest
+import HtmlTestRunner
 
 #import sys
 #import os
@@ -49,7 +50,7 @@ class LoginTest(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    unittest.main()
+    unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output='C:/Users/hutaz/Desktop/selenium_project/reports'))
 
 
 #import sample_project.page_object_model_project.pages.homepage as hp
