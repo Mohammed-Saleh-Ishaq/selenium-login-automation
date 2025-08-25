@@ -9,6 +9,7 @@ class LoginPage:
         #self.username_input = (By.NAME, "username")
         #self.password_input = (By.NAME, "password")
         #self.submit_button = (By.XPATH, "//button[@type='submit']")
+        self.test_invalid_username =(By.CLASS_NAME, "oxd-alert-content-text")
 
     def enter_username(self, username):
         self.driver.find_element(*Locators.username_input).clear()
@@ -22,3 +23,10 @@ class LoginPage:
 
     def click_login(self):
         self.driver.find_element(*Locators.submit_button).click()
+
+    #def check_invalid_username_message(self):
+    #    msg = self.driver.find_element(By.CLASS_NAME, "oxd-alert-content-text").text
+    #    return msg
+    
+    def get_error_message(self):
+        return self.driver.find_element(By.CLASS_NAME, "oxd-alert-content-text").text
