@@ -26,6 +26,8 @@ selenium_project/
 
 ├── venv/ # Virtual environment
 
+├── reports
+
 ├── sample_project/
 
 │ └── page_object_model_project/
