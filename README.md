@@ -32,6 +32,8 @@ selenium_project/
 
 │ └── page_object_model_project/
 
+│ └── locators
+
 │ ├── Drivers/ # ChromeDriver goes here
 
 │ ├── Pages/ # Page Object files (optional)
