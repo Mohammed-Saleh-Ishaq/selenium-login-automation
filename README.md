@@ -34,7 +34,7 @@ selenium_project/
 
 │ └── locators/
 
-│ └──
+│ └── loctor
 
 │ ├── Drivers/ # ChromeDriver goes here
 
