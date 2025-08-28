@@ -32,7 +32,9 @@ selenium_project/
 
 │ └── page_object_model_project/
 
-│ └── locators
+│ └── locators/
+
+│ └──
 
 │ ├── Drivers/ # ChromeDriver goes here
 
