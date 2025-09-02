@@ -30,7 +30,7 @@ selenium_project/
 
 │ └── Test Report for case 1
 
-│ └── Test Report for case 1 and
+│ └── Test Report for case 1 &
 
 ├── sample_project/
 
