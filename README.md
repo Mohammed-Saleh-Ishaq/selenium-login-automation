@@ -26,7 +26,7 @@ selenium_project/
 
 ├── venv/ # Virtual environment
 
-├── reports/ #
+├── reports/ # test
 
 │ └── Test Report for Test 1
 
