@@ -1,7 +1,9 @@
 # selenium-login-automation
 
 This is a **Selenium-based automation project** for testing the **login and logout functionality** of the [OrangeHRM demo application].
-It follows the **Page Object Model (POM)** 
+It follows the **Page Object Model (POM)** design pattern and uses 
+
+
 ---
 
 ## 🌐 Website Under Test
