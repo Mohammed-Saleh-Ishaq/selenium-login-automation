@@ -18,7 +18,7 @@ It follows the **Page Object Model (POM)** design pattern and uses **unittest** 
 - **Selenium WebDriver**
 - **unittest (built-in Python framework)**
 - **ChromeDriver**
-- HtmlTestRunner (optional for reports)
+- **HtmlTestRunner (optional for reports)**
 
 ---
 
