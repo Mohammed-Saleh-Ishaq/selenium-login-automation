@@ -36,7 +36,7 @@ selenium_project/
 
 ├── sample_project/
 
-│ └── page_object_model_project/   POM
+│ └── page_object_model_project/   (POM
 
 │ └── locators/
 
