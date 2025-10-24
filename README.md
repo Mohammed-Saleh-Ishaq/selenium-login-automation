@@ -6,7 +6,7 @@ It follows the **Page Object Model (POM)** design pattern and uses **unittest** 
 
 ---
 
-## 🌐 Website used Under Test
+## 🌐 Website usedfor Under Test
 
 [https://opensource-demo.orangehrmlive.com/](https://opensource-demo.orangehrmlive.com/)
 
