@@ -60,3 +60,4 @@ selenium_project/
 
 1. Clone the repository:
    ```bash
+   git@github.com:Mohammed-Saleh-Ishaq/selenium-login-automation.git
