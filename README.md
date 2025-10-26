@@ -57,3 +57,5 @@ selenium_project/
 ---
 
 ## ⚙️ Setup & Installation
+
+1. Clone
