@@ -56,4 +56,4 @@ selenium_project/
 
 ---
 
-## ⚙️ Setup 
+## ⚙️ Setup & Installation
