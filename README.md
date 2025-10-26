@@ -55,3 +55,5 @@ selenium_project/
 └── README.md
 
 ---
+
+## ⚙️ Setup 
