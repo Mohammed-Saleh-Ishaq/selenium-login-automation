@@ -63,3 +63,5 @@ selenium_project/
    git@github.com:Mohammed-Saleh-Ishaq/selenium-login-automation.git
 
 2. Create and activate a virtual environment:
+   ```bash
+   python -m venv venv
