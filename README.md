@@ -62,4 +62,4 @@ selenium_project/
    ```bash
    git@github.com:Mohammed-Saleh-Ishaq/selenium-login-automation.git
 
-2. 
+2. Create and activate a virtual environment:
