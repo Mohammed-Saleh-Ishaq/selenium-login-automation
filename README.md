@@ -69,3 +69,5 @@ selenium_project/
    source venv/bin/activate  # On macOS/Linux
 
 3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
