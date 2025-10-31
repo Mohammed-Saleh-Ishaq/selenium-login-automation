@@ -75,3 +75,4 @@ selenium_project/
 ---
 📑 Test Cases
 1. ✅ Valid Login & Logout
+   -- Enters correct username/password
