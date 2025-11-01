@@ -77,3 +77,4 @@ selenium_project/
 1. ✅ Valid Login & Logout
    -- Enters correct username/password
    -- Verifies successful login and logout
+2.
