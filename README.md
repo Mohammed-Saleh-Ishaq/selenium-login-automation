@@ -76,3 +76,4 @@ selenium_project/
 📑 Test Cases
 1. ✅ Valid Login & Logout
    -- Enters correct username/password
+   -- Verifies successful login and logout
