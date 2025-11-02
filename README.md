@@ -78,3 +78,4 @@ selenium_project/
    -- Enters correct username/password
    -- Verifies successful login and logout
 2. ❌ Invalid Username
+   -- 
