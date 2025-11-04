@@ -79,5 +79,5 @@ selenium_project/
    -- Verifies successful login and logout
 2. ❌ Invalid Username
    -- Enters invalid username with valid password
-   -- Verifies error message: "Invalid credentials"
+   -- Verifies error message: "Invalid credentials".
    
