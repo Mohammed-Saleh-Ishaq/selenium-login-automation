@@ -80,4 +80,6 @@ selenium_project/
 2. ❌ Invalid Username
    -- Enters invalid username with valid password
    -- Verifies error message: "Invalid credentials".
+
+---
    
