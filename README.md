@@ -83,4 +83,6 @@ selenium_project/
 
 ---
 📊 Sample Reports
+Reports are generated using HtmlTestRunner:
+
    
