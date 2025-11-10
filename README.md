@@ -82,4 +82,5 @@ selenium_project/
    -- Verifies error message: "Invalid credentials".
 
 ---
+📊 Sample Reports
    
