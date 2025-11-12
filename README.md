@@ -85,6 +85,6 @@ selenium_project/
 📊 Sample Reports
 Reports are generated using HtmlTestRunner:
    -- Test 1: Only valid login test
-   -- Test 2: 
+   -- Test 2: Valid + Invalid login tests
 
    
